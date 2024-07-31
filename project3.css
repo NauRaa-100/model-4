@@ -1,0 +1,91 @@
+body{
+    background-color: rgba(128, 128, 128, 0.315);
+}
+header{
+background-image: url(157364-abstract-red-background-vector-illustration.jpg);
+background-repeat: no-repeat;
+text-align: center;
+color: aliceblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bolder;
+
+}
+header h1{
+
+    padding: 40px 0 0 0;
+    font-size: 35px;
+}
+header p{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 12px;
+margin: -20px 0 10px 0;
+}
+
+header button{
+background-color: rgba(4, 171, 248, 0.897);
+margin: 0 0 20px 0;
+height: 30px;
+width: 100px;
+border-radius: 5px ;
+}
+.l{
+text-decoration: none;}
+
+.features {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.feature {
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px 0;
+    background-color: white;
+
+    }
+    .feature:hover{
+transform:scale(1.05);
+    }
+
+footer{
+background-color: rgb(75, 74, 74);
+text-align: center;
+
+color: aliceblue;
+height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
